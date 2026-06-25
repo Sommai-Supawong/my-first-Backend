@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "my backend by sommai",
   "type": "module",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/index.js",
+    "start": "nodemon src/server.js",
     "dev": "npm start"
   },
   "keywords": [],
